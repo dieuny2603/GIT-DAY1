@@ -1,0 +1,2 @@
+line 1: Hello
+line 2: Xin chao
